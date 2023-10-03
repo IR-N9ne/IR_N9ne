@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @T-mawa
+- 👋 Hi, I’m @IR_N9ne
 - 👀 I’m interested in automation and connecting things
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything
